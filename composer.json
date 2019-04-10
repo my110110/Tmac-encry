@@ -1,0 +1,11 @@
+{
+    "name": "tmac/encrypackages",
+    "description": "jiami",
+    "authors": [
+        {
+            "name": "zyh tmac",
+            "email": "446910086@qq.com"
+        }
+    ],
+    "require": {}
+}

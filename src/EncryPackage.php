@@ -8,7 +8,6 @@
 
 namespace Tmac\Encrypackages;
 
-
 class EncryPackage
 {
     public function __construct()
